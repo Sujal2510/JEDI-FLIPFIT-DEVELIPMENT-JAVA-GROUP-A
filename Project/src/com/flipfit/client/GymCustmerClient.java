@@ -8,8 +8,8 @@ package com.flipfit.client;
  */
 public class GymCustmerClient {
     public void userMenu() {
-        System.out.println("Good Morning Flipsters! ");
-        SYstem.out.println("Lets Start the work!! ");
+
+        System.out.println("Hello World! ");
     }
     public void handleUserActions() {}
 }
