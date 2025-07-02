@@ -9,6 +9,7 @@ package com.flipfit.bean;
 public class Admin {
 	private String adminId;
     private String name;
+//	This is guru
     private String email;
     /**
 	 * @return the adminId
